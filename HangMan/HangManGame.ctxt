@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=HangManGame
+comment1.params=
+comment1.target=HangManGame()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ setPhrase()
+comment4.params=
+comment4.target=void\ reset()
+comment5.params=c
+comment5.target=void\ play(char)
+comment6.params=e
+comment6.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment6.text=Handle\ the\ key\ typed\ event\ from\ the\ text\ field.
+comment7.params=e
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment7.text=Handle\ the\ key\ pressed\ event\ from\ the\ text\ field.
+comment8.params=e
+comment8.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment8.text=Handle\ the\ key\ released\ event\ from\ the\ text\ field.
+comment9.params=arg
+comment9.target=void\ main(java.lang.String[])
+numComments=10
